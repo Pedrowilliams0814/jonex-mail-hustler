@@ -1,0 +1,4 @@
+requests
+bs4
+openai
+python-telegram-bot==20.3
